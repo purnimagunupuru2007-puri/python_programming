@@ -6,7 +6,6 @@ b=temp
 print("after swapping")
 print("a=",a)
 print("b=",b)
-//input:5
-       10
-//output:10
-         5
+#input:5 10
+#output:10 5
+         
