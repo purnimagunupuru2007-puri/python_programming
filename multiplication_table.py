@@ -1,4 +1,4 @@
-a=int(input("Enter a number: "))
+a=int(input())
 for i in range(1,6):
   print(a,"x",i,"=",a*i)
 
